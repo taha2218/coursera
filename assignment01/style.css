@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    height: 30vh;
+    background-color: rgb(14, 14, 14);
+    display: flex;
+    color: bisque;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    height: 70vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    padding: 4px;
+    font-size: 1rem;
+    text-align: center;
+}
+button{
+    padding: 4px;
+    width: 100px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(43, 110, 255);
+    border: none;
+    color: white;
+    height: 32px;
+    border-radius: 3px;
+    font-weight: 300;
+}
+h5{
+    font-weight: 400;
+    margin: 6px;
+    margin-top: 14px !important;
+}
